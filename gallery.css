@@ -63,7 +63,7 @@ html, body{
 
 .card:hover{
     transform: scale(1.05);
-    transition: 0.7;
+    transition: 0.7s;
     /* give a shadow when card is at hover state */
     filter: drop-shadow(0 0 10px #333);
 }
@@ -88,7 +88,7 @@ html, body{
     border-radius: 0 0 10px 10px;
     /* add gradient to the text bg to make it appear when it gets hovered */
     background: linear-gradient(0deg, rgba(0, 0, 0, 0.5) 0%, rgba(255, 255, 255, 0) 100%);
-    transition: 0.4s;
+    transition: 0.6s;
 
 }
 
